@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MovieCatch</string>
+    <string name="overview">Filmin Konusu</string>
+    <string name="popularmovies">Popüler Filmler</string>
+    <string name="recentmovies">Son Filmler</string>
+    <string name="viewAll">Hepsini Gör</string>
+    <string name="home">Ana Sayfa</string>
+    <string name="favorites">Favoriler</string>
+    <string name="settings">Ayarlar</string>
+    <string name="light_mode">Aydınlık Mod</string>
+    <string name="dark_mode">Karanlık Mod</string>
+    <string name="license">Lisans</string>
+    <string name="notification_intervals">Bildirim Ayarları</string>
+    <string name="author">Yazar</string>
+    <string name="version">Versiyon</string>
+    <string name="nodata">Veri Yok</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
